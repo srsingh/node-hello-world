@@ -1,0 +1,23 @@
+{
+  "name": "Hello-World",
+  "version": "0.0.1",
+  "description": "A node Starter Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjeevkumarrao/node-hello-world.git"
+  },
+  "dependencies": {
+    "express": "~3.0.1",
+    "sequelize": "latest",
+    "q": "latest",
+    "tedious": "latest",
+    "angular": "latest",
+    "angular-ui-router": "~0.2.11",
+    "path": "latest",
+    "dat-gui": "latest"
+  }
+}
